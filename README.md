@@ -7,7 +7,6 @@
 - [Sobre](#-sobre)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Acesso ao projeto](#-acesso-ao-projeto)
-- [Abrir e rodar o projeto](#-abrir-e-rodar-o-projeto)
 
 ## 🔖&nbsp; Sobre
 
